@@ -11,6 +11,6 @@ Course projects for the UCLA course "Introduction to Computer Science I"
 
 [UCLA Meal Plan Pricing](https://github.com/jpicchi18/object_oriented_programming_1/tree/main/Project%202): Developed a main routine to calculate the price of meals at UCLA's dining halls based on combinations of meal type, status of on-campus residence, and enrollment/employment status at UCLA.
 
-[Exploring Error Types](https://github.com/jpicchi18/object_oriented_programming_1/tree/main/Project%201): 
+[Exploring Error Types](https://github.com/jpicchi18/object_oriented_programming_1/tree/main/Project%201): Exploring the correspondence between different programming expressions and their resultant command line error messages.
 
 [Learning About Pointers](https://github.com/jpicchi18/object_oriented_programming_1/tree/main/Project%206): Implemented various functions and rectified dereference errors associated with pointers.
